@@ -11,7 +11,7 @@ Projeto desenvolvido para pratica.
 
 ## Funcionalidades
 
-- Validação de dados inseridos do email
+- Validação de dados inseridos do email.
 
 ## Como executar
 
